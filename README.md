@@ -1,4 +1,4 @@
-# 3dxnaes_code
+# 3dxanes_code
 
 # 3D-XANES Analysis Code
 
